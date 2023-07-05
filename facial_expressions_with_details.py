@@ -4,6 +4,7 @@ import GPUtil
 import tempfile
 import os
 import time
+import atexit
 from simple_facerec import SimpleFacerec
 from deepface import DeepFace
 
@@ -41,6 +42,53 @@ gpu_total_time = 0
 detection_total_time = 0
 analysis_total_time = 0
 iteration_count = 0
+
+def save_average_stats():
+    # Calculate average times
+    avg_cpu_time = cpu_total_time / iteration_count
+    avg_gpu_time = gpu_total_time / iteration_count
+    avg_detection_time = detection_total_time / iteration_count
+    avg_analysis_time = analysis_total_time / iteration_count
+
+    # Get CPU details using psutil
+    cpu_percent = psutil.cpu_percent(interval=2)
+    cpu_count = psutil.cpu_count()
+    percpu_percent = psutil.cpu_percent(interval=2, percpu=True)
+
+    # Get memory details using psutil
+    memory = psutil.virtual_memory()
+
+    # Get GPU details using GPUtil
+    gpus = GPUtil.getGPUs()
+    gpu_name = gpus[0].name if gpus else "N/A"
+    gpu_load = gpus[0].load * 100 if gpus else 0
+    gpu_memory_util = gpus[0].memoryUtil * 100 if gpus else 0
+
+    # Get disk usage details using psutil
+    disk_usage = psutil.disk_usage('/')
+
+    # Write average times and system resource details to the file
+    with open(cpu_gpu_file, 'a') as file:
+        file.write(f"Average CPU Usage: {avg_cpu_time:.2f}%\n")
+        file.write(f"Average GPU Usage: {avg_gpu_time:.2f}%\n")
+        file.write(f"Average Face Detection Time: {avg_detection_time:.2f} seconds\n")
+        file.write(f"Average Emotion Analysis Time: {avg_analysis_time:.2f} seconds\n")
+        file.write(f"CPU Percent: {cpu_percent}%\n")
+        file.write(f"CPU Count: {cpu_count}\n")
+        file.write(f"Per CPU Percent: {percpu_percent}\n")
+        file.write(f"Total Memory: {memory.total / (1024 ** 3)} GB\n")
+        file.write(f"Available Memory: {memory.available / (1024 ** 3)} GB\n")
+        file.write(f"Used Memory: {memory.used / (1024 ** 3)} GB\n")
+        file.write(f"Memory Percentage: {memory.percent}%\n")
+        file.write(f"GPU Name: {gpu_name}\n")
+        file.write(f"GPU Load: {gpu_load}%\n")
+        file.write(f"GPU Memory Utilization: {gpu_memory_util}%\n")
+        file.write(f"Total Disk Space: {disk_usage.total / (1024 ** 3)} GB\n")
+        file.write(f"Used Disk Space: {disk_usage.used / (1024 ** 3)} GB\n")
+        file.write(f"Free Disk Space: {disk_usage.free / (1024 ** 3)} GB\n")
+        file.write(f"Disk Usage Percentage: {disk_usage.percent}%\n")
+
+atexit.register(save_average_stats)
 
 while True:
     ret, frame = cap.read()
@@ -112,36 +160,36 @@ while True:
     analysis_total_time += analysis_time
     iteration_count += 1
 
+    # Check CPU usage
+    cpu_percent = psutil.cpu_percent()
+    print(f"CPU Usage: {cpu_percent}%")
+
+    # Check memory (RAM) usage
+    memory = psutil.virtual_memory()
+    print(f"Total Memory: {memory.total / (1024 ** 3)} GB")
+    print(f"Available Memory: {memory.available / (1024 ** 3)} GB")
+    print(f"Used Memory: {memory.used / (1024 ** 3)} GB")
+    print(f"Memory Percentage: {memory.percent}%")
+
+    # Check GPU usage
+    gpus = GPUtil.getGPUs()
+    for gpu in gpus:
+        print(f"GPU Name: {gpu.name}")
+        print(f"GPU Load: {gpu.load * 100}%")
+        print(f"GPU Memory Utilization: {gpu.memoryUtil * 100}%")
+
+    # Check system resource utilization
+    disk_usage = psutil.disk_usage('/')
+    print(f"Total Disk Space: {disk_usage.total / (1024 ** 3)} GB")
+    print(f"Used Disk Space: {disk_usage.used / (1024 ** 3)} GB")
+    print(f"Free Disk Space: {disk_usage.free / (1024 ** 3)} GB")
+    print(f"Disk Usage Percentage: {disk_usage.percent}%")
+
     cv2.imshow("Frame", frame)
 
     key = cv2.waitKey(1)
     if key == 27:
         break
-
-# Calculate average times
-avg_cpu_time = cpu_total_time / iteration_count
-avg_gpu_time = gpu_total_time / iteration_count
-avg_detection_time = detection_total_time / iteration_count
-avg_analysis_time = analysis_total_time / iteration_count
-
-# Get CPU details using psutil
-cpu_percent = psutil.cpu_percent(interval=2)
-cpu_count = psutil.cpu_count()
-percpu_percent = psutil.cpu_percent(interval=2, percpu=True)
-
-# Erase the old content in the file
-with open(cpu_gpu_file, 'w') as file:
-    file.write("")
-
-# Write average times and CPU details to the file
-with open(cpu_gpu_file, 'a') as file:
-    file.write(f"Average CPU Usage: {avg_cpu_time:.2f}%\n")
-    file.write(f"Average GPU Usage: {avg_gpu_time:.2f}%\n")
-    file.write(f"Average Face Detection Time: {avg_detection_time:.2f} seconds\n")
-    file.write(f"Average Emotion Analysis Time: {avg_analysis_time:.2f} seconds\n")
-    file.write(f"CPU Percent: {cpu_percent}%\n")
-    file.write(f"CPU Count: {cpu_count}\n")
-    file.write(f"Per CPU Percent: {percpu_percent}\n")
 
 cap.release()
 cv2.destroyAllWindows()

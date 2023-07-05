@@ -1,0 +1,1105 @@
+Average CPU Usage: 83.77%
+Average GPU Usage: 0.00%
+Average Face Detection Time: 0.04 seconds
+Average Emotion Analysis Time: 0.06 seconds
+CPU Percent: 5.6%
+CPU Count: 12
+Per CPU Percent: [4.5, 4.5, 5.1, 4.0, 3.0, 4.6, 5.6, 6.5, 3.5, 5.9, 6.1, 3.0]
+CPU Usage: 34.2%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.28 seconds
+
+CPU Usage: 52.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 91.5%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 92.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 91.9%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 98.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 95.5%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 98.4%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 98.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 94.7%
+GPU Usage: 0%
+Face Detection Time: 0.10 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 87.9%
+GPU Usage: 0%
+Face Detection Time: 0.08 seconds
+Emotion Analysis Time: 0.10 seconds
+
+CPU Usage: 90.8%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 89.0%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 93.9%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 95.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 98.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 97.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 98.3%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 98.6%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 90.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 93.6%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 98.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 89.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 94.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.1%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 96.6%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.09 seconds
+
+CPU Usage: 86.8%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 98.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.5%
+GPU Usage: 0%
+Face Detection Time: 0.10 seconds
+Emotion Analysis Time: 0.08 seconds
+
+CPU Usage: 96.1%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 94.9%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 59.1%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.08 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 97.8%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 98.7%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 94.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 87.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 95.8%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 85.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.08 seconds
+
+CPU Usage: 34.4%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.28 seconds
+
+CPU Usage: 50.9%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 93.8%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 93.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.09 seconds
+
+CPU Usage: 88.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 91.8%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.1%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 85.5%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 98.6%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 92.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.4%
+GPU Usage: 0%
+Face Detection Time: 0.07 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 95.6%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 96.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 80.4%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 96.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 94.2%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 97.9%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 87.0%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.7%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 93.1%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 91.4%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.10 seconds
+
+CPU Usage: 82.4%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 91.0%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.7%
+GPU Usage: 0%
+Face Detection Time: 0.07 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 95.4%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 93.3%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 88.8%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 89.1%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.09 seconds
+
+CPU Usage: 34.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.29 seconds
+
+CPU Usage: 27.5%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.29 seconds
+
+CPU Usage: 21.4%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.29 seconds
+
+CPU Usage: 8.3%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.29 seconds
+
+CPU Usage: 11.9%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.29 seconds
+
+CPU Usage: 78.3%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 92.4%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 28.1%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 16.1%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 8.8%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 22.5%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 14.5%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 34.1%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 77.6%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 16.7%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 2.4%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 10.2%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 8.3%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 35.8%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 42.9%
+GPU Usage: 0%
+Face Detection Time: 0.01 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 85.3%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.7%
+GPU Usage: 0%
+Face Detection Time: 0.09 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 95.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 98.6%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 92.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 77.1%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.13 seconds
+
+CPU Usage: 85.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 88.4%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 95.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 95.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 94.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 93.0%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 88.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 97.4%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 94.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 89.7%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 92.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.10 seconds
+
+CPU Usage: 90.1%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 90.8%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 98.6%
+GPU Usage: 0%
+Face Detection Time: 0.10 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 90.8%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 76.8%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 87.8%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.10 seconds
+
+CPU Usage: 85.3%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.08 seconds
+
+CPU Usage: 81.1%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 97.1%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 90.3%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 97.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 88.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 92.4%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 34.4%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.27 seconds
+
+CPU Usage: 50.6%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 98.6%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 95.9%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 89.7%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 90.2%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 78.6%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 91.0%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 92.6%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 88.3%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.2%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 95.5%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 90.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 93.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 96.9%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 97.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 97.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.07 seconds
+
+CPU Usage: 96.6%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 95.3%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 95.5%
+GPU Usage: 0%
+Face Detection Time: 0.03 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 98.5%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.05 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.06 seconds
+
+CPU Usage: 100.0%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 99.3%
+GPU Usage: 0%
+Face Detection Time: 0.06 seconds
+Emotion Analysis Time: 0.05 seconds
+
+CPU Usage: 89.7%
+GPU Usage: 0%
+Face Detection Time: 0.04 seconds
+Emotion Analysis Time: 0.10 seconds
+
+Average CPU Usage: 91.79%
+Average GPU Usage: 0.00%
+Average Face Detection Time: 0.04 seconds
+Average Emotion Analysis Time: 0.07 seconds
+CPU Percent: 8.2%
+CPU Count: 12
+Per CPU Percent: [4.5, 4.0, 2.0, 5.7, 9.0, 4.4, 2.5, 7.0, 4.5, 3.6, 4.5, 4.5]
+Total Memory: 38.888587951660156 GB
+Available Memory: 15.698322296142578 GB
+Used Memory: 22.485187530517578 GB
+Memory Percentage: 59.6%
+GPU Name: N/A
+GPU Load: 0%
+GPU Memory Utilization: 0%
+Total Disk Space: 467.8895797729492 GB
+Used Disk Space: 286.7311096191406 GB
+Free Disk Space: 157.3209228515625 GB
+Disk Usage Percentage: 64.6%

@@ -1,6 +1,7 @@
 # Used deepface conda env (Internal ref)
 
 import cv2
+import psutil
 from deepface import DeepFace
 
 ################### FACE EMOTION DETECTION USING DEEPFACE AND OTHER MODELS ##################
@@ -54,6 +55,13 @@ while True:
 
     # Display the dominant emotion on the frame
     cv2.putText(frame, emotion_label, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
+
+    # Display CPU usage and FPS on screen
+    cpu_usage = psutil.cpu_percent()
+    fps = cap.get(cv2.CAP_PROP_FPS)
+    cv2.putText(frame, f"CPU Usage: {cpu_usage}%", (10, frame.shape[0] - 10), cv2.FONT_HERSHEY_COMPLEX, 0.7, (0, 0, 200), 2)
+    cv2.putText(frame, f"FPS: {fps}", (10, frame.shape[0] - 40), cv2.FONT_HERSHEY_COMPLEX, 0.7, (0, 0, 200), 2)
+
     cv2.imshow("Frame", frame)
 
     # Check for key press to exit the loop
