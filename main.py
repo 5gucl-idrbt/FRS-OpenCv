@@ -4,7 +4,7 @@ from simple_facerec import SimpleFacerec
 ################ FACE DETECTION #############
 
 #RTSP
-rtsp_url = 'rtsp://192.168.138.116:8080/h264_ulaw.sdp'
+rtsp_url = 'rtsp://192.168.138.134:8080/h264_ulaw.sdp'
 rtmp_url = 'rtmp://192.168.138.121:1935/live/demo'
 
 #Encode faces from a folder

@@ -1,0 +1,18 @@
+Average CPU Usage: 55.16%
+Average GPU Usage: 0.00%
+Average Face Detection Time: 0.03 seconds
+Average Emotion Analysis Time: 0.07 seconds
+CPU Percent: 10.3%
+CPU Count: 12
+Per CPU Percent: [13.1, 5.0, 6.4, 13.0, 9.2, 12.0, 8.3, 12.6, 12.8, 8.4, 9.7, 5.5]
+Total Memory: 38.888587951660156 GB
+Available Memory: 13.760856628417969 GB
+Used Memory: 24.32959747314453 GB
+Memory Percentage: 64.6%
+GPU Name: N/A
+GPU Load: 0%
+GPU Memory Utilization: 0%
+Total Disk Space: 467.8895797729492 GB
+Used Disk Space: 287.0357360839844 GB
+Free Disk Space: 157.01629638671875 GB
+Disk Usage Percentage: 64.6%
