@@ -2,11 +2,11 @@ import cv2
 import face_recognition
 import numpy as np
 
-img = cv2.imread("pavan10.jpg")
+img = cv2.imread("/home/idrbt/Desktop/VideoSurveillance/june-testing/FRS-OpenCv/images_test/PavanKumar.jpg")
 rgb_img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 img_encodings = face_recognition.face_encodings(rgb_img)
 
-img2 = cv2.imread("images/pavan.jpg")
+img2 = cv2.imread("/home/idrbt/Desktop/VideoSurveillance/june-testing/FRS-OpenCv/images_test/beeru.jpeg")
 rgb_img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2RGB)
 img_encodings2 = face_recognition.face_encodings(rgb_img2)
 
