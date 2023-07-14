@@ -30,8 +30,12 @@ Right click on empty space and go to Applications --- Shells -- Bash
 
 Open project folder
 --
+```
 ls
+```
+```
 cd FRS-OpenCv
+```
 
 Run deepface.py file
 --
@@ -41,5 +45,7 @@ python3 my_deepface.py
 
 If you want to run any other python script
 then use 
-``` python3 <file-name.py>
+
+```
+python3 <file-name.py>
 ```
