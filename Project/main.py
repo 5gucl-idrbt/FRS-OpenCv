@@ -13,7 +13,7 @@ sfr.load_encoding_images("images_test/")
 
 
 # Load camera
-cap = cv2.VideoCapture('config.url')
+# cap = cv2.VideoCapture('config.url')
 cap = cv2.VideoCapture(0)
 
 
