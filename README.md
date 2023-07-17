@@ -15,8 +15,8 @@ sudo docker run --device=/dev/video0 --rm -it -P --user $(id root -u):$(id root 
 ```
 It show url in the docker container after running above command click the link and enter password ``` cms.cern ```
 
-Incase broswer not opened automatically then use the below command
-Open web broswer and type ``` http://127.0.0.1:6080/vnc.html ``` and password ``` cms.cern ```
+Incase broswer not opened automatically then use the below command and 
+open in web broswer and type ``` http://127.0.0.1:6080/vnc.html ``` and password ``` cms.cern ```
 
 If you want to use vnc viewer or any other application to view like Remmina and others
 ```VNC viewer address: 127.0.0.1::5901 ``` and password ``` cms.cern ```
