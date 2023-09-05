@@ -13,8 +13,7 @@ Run the image (Needs webcam)
 ```
 sudo docker run --device=/dev/video0 --rm -it -P --user $(id root -u):$(id root -g) -p 5901:5901 -p 6080:6080 pavan0077/deepface:latest
 ```
-
-Enter this command twice
+To start vnc server
 ```
 start_vnc
 ```
@@ -25,7 +24,7 @@ export DISPLAY=:1
 export XAUTHORITY=/path/to/your/xauthority/file
 
 -->
-To Start Vnc server
+If this doesn't work press enter and re-run the command
 ```
 start_vnc
 ```
