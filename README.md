@@ -14,16 +14,22 @@ Run the image (Needs webcam)
 sudo docker run --device=/dev/video0 --rm -it -P --user $(id root -u):$(id root -g) -p 5901:5901 -p 6080:6080 pavan0077/deepface:latest
 ```
 
-Enter this commands to export display
+Enter this command twice
 ```
+start_vnc
+```
+<!--
+
 ps aux | grep Xorg
 export DISPLAY=:1
 export XAUTHORITY=/path/to/your/xauthority/file
-```
+
+-->
 To Start Vnc server
 ```
 start_vnc
 ```
+
 It show url in the docker container after running above command click the link and enter password ``` cms.cern ```
 
 Incase broswer not opened automatically then use the below command and 
