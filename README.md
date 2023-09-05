@@ -65,3 +65,5 @@ then use
 ```
 python3 <file-name.py>
 ```
+
+To exit the application you need to press Ctrl + C in the shell
