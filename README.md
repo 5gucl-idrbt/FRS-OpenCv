@@ -11,7 +11,7 @@ docker pull pavan0077/deepface:latest
 ```
 Run the image (Needs webcam)
 ```
-sudo docker run --device=/dev/video0 --rm -it -P --user $(id root -u):$(id root -g) -p 5901:5901 -p 6080:6080 deepface
+sudo docker run --device=/dev/video0 --rm -it -P --user $(id root -u):$(id root -g) -p 5901:5901 -p 6080:6080 pavan0077/deepface:latest
 ```
 
 Enter this commands to export display
